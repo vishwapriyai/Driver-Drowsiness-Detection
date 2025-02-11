@@ -7,7 +7,6 @@ This project implements a deep learning model to detect the state of a person's 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Real-time Detection](#real-time-detection)
