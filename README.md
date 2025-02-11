@@ -10,8 +10,6 @@ This project implements a deep learning model to detect the state of a person's 
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Real-time Detection](#real-time-detection)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Image Preprocessing**: The project includes image loading, resizing, and normalization.
